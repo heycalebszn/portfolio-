@@ -12,12 +12,6 @@ export default {
         lexend: ["Lexend", "sans-serif"], // Add Lexend font family
         rubik: ["Rubik", "sans-serif"],
       },
-      colors: {
-        yellow: "#FFCC00",
-      },
-      backgroundColor: {
-        yellow: "#130b1c",
-      },
     },
   },
   plugins: [],
