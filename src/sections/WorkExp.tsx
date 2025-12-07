@@ -36,7 +36,7 @@ const WorkExp = () => {
         "Designed and implemented RESTful APIs to support front-end applications.",
         "Optimized database queries and front-end performance, reducing load times by 40%."
       ],
-      technologies: ["Node.js", "Next.js", "MongoDB"]
+      technologies: ["Node.js", "Express.js", "React", "TypeScript", "Next.js", "MongoDB"]
     },
     {
       company: "Techies Colab and Upskill (TCU)",
@@ -87,7 +87,7 @@ const WorkExp = () => {
   };
 
   return (
-    <section className="md:pt-44 pt-24 w-full">
+    <section className="md:pt-44 pt-24 px-4 md:px-8 lg:px-16 w-full">
       <div className="max-w-7xl mx-auto px-4 md:px-0 lg:px-0 w-full">
         <motion.div
           initial={{ opacity: 0, y: -10 }}

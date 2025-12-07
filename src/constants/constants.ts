@@ -5,7 +5,7 @@ export const projects = [
     lang: "ReactJS + TailwindCSS",
     link: "https://numpay-six.vercel.app",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/numpay-landing.png",
   },
   {
     name: "NumPay x402",
@@ -13,7 +13,7 @@ export const projects = [
     lang: "Next.js + TailwindCSS",
     link: "https://numpay-new-landing.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/numpayx402.png",
   },
   {
     name: "Magmar Landing",
@@ -21,7 +21,7 @@ export const projects = [
     lang: "Next.js + TailwindCSS",
     link: "https://magmar-landing-page.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/magmar.png",
   },
   {
     name: "Magmar Wallet",
@@ -29,7 +29,7 @@ export const projects = [
     lang: "Next.js + Wagmi + Covalent API + TailwindCSS",
     link: "https://magmar-new-frontend.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/magmar-dapp.png",
   },
   {
     name: "Sral Engineering Ltd",
@@ -37,7 +37,7 @@ export const projects = [
     lang: "Node.js + Express.js + MongoDB + ReactJS + TailwindCSS",
     link: "https://sralengineeringltd.com/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/sral.png",
   },
   {
     name: "Whisper",
@@ -45,7 +45,7 @@ export const projects = [
     lang: "Next.js + TailwindCSS",
     link: "https://whisper-landing-page.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/whisper.png",
   },
   {
     name: "Scupie",
@@ -53,7 +53,7 @@ export const projects = [
     lang: "Next.js + TailwindCSS + Web3 Integrations",
     link: "https://scupie-main.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/scupie.png",
   },
   {
     name: "Chimly",
@@ -61,7 +61,7 @@ export const projects = [
     lang: "Next.js + Node.js + Express.js + MongoDB",
     link: "https://chimly.ai/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/chimly.png",
   },
   {
     name: "Blockgram",
@@ -69,7 +69,7 @@ export const projects = [
     lang: "Next.js + TailwindCSS",
     link: "https://blitzgramm.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/blockgram.png",
   },
   {
     name: "Blockgram Landing Page",
@@ -77,7 +77,7 @@ export const projects = [
     lang: "ReactJS + TailwindCSS",
     link: "https://blockgram-landing.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/blockgram-landing.png",
   },
   {
     name: "Path Robotics Clone",
@@ -85,7 +85,7 @@ export const projects = [
     lang: "React Router Framework + TailwindCSS + GSAP",
     link: "https://path-robotics-clone.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/path-robotics.png",
   },
   {
     name: "Pixite",
@@ -93,7 +93,7 @@ export const projects = [
     lang: "Next.js + TailwindCSS",
     link: "https://pixite-omega.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/solura.png",
   },
   {
     name: "CodeIDE",
@@ -101,7 +101,7 @@ export const projects = [
     lang: "GSAP + ReactJS + TailwindCSS",
     link: "https://codeide-landing.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/codeide.png",
   },
   {
     name: "Grass IO Clone",
@@ -109,7 +109,7 @@ export const projects = [
     lang: "Next.js + Framer Motion + TailwindCSS",
     link: "https://grass-io-clone.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/grass-io.png",
   },
   {
     name: "Ondevi Clone",
@@ -117,7 +117,7 @@ export const projects = [
     lang: "React Router Framework + TailwindCSS",
     link: "https://ondevi-clone.vercel.app/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/robolayer.png",
   },
   {
     name: "Delta Exchange",
@@ -133,7 +133,7 @@ export const projects = [
     lang: "ReactJS + TailwindCSS + Axios + Map API",
     link: "https://electric-keke-frontend.vercel.app/",
     github: "https://github.com/heycalebszn/Kobodrop",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/ecoride.png",
   },
   {
     name: "Xdegen",
@@ -141,7 +141,7 @@ export const projects = [
     lang: "Next.js + ReactJS + TailwindCSS + Typescript + Rust",
     link: "https://xdegen.xyz/",
     github: "https://github.com/heycalebszn",
-    preview: "/previews/portscan.jpeg",
+    preview: "/previews/xdegen.png",
   },
 ];
   // {
